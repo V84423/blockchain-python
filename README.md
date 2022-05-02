@@ -1,5 +1,3 @@
-[中文说明](https://github.com/Carlos-Zen/blockchain_python/blob/master/README_zh.md)
-
 # Blockchain-python
 
 A blockchain implementation in Python only for study.
